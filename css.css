@@ -1,0 +1,51 @@
+ *{
+     margin: 0px;
+     padding: 0px;
+     background-color:gray;
+ }
+ .divkoli{
+     width: 100%;
+ }
+ .nav-css{
+    margin: 50px;
+    text-align: center;
+}
+.li-css{
+    display: inline;
+    list-style: none;
+    margin: 9px;
+}
+.a-css{
+    transition: all .1s;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: rgb(139, 19, 89);
+    color: yellow;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 7px;
+    border: 2px solid rgb(139, 19, 89);
+    text-decoration: none;
+}
+.header-css{
+    color: yellow;
+    text-align: center;
+
+}
+.caption-css{
+text-align: right;
+padding-right: 50px;
+padding-left: 50px;
+}
+.a-css:hover{
+    padding: 9px;
+}
+.footer-css{
+    padding: 45px;
+    color: red;
+    text-align: center;
+    background-color: black;
+}
+.footer-csss{
+    margin-top: 100px;
+}
